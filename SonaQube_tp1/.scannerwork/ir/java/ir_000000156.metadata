@@ -1,0 +1,5 @@
+com.google.common.base.Preconditions#checkNotNull(Ljava/lang/Object;Ljava/lang/String;CI)Ljava/lang/Object;
+true
+e077f6306ceef7196a273cf220d56204
+java.lang.NullPointerException#<init>()V
+java.lang.NullPointerException#instance-init#

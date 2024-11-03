@@ -1,0 +1,7 @@
+ma.sonar.main.ProjectManager#main([Ljava/lang/String;)V
+false
+830cb83882595f135bc66c3e35ff0bcc
+ma.sonar.main.ProjectManager#getProjectDescription()Ljava/lang/String;
+ma.sonar.main.ProjectManager#performComplexCalculation(I)I
+==
+println java.io.PrintStream#println(Ljava/lang/String;)V
