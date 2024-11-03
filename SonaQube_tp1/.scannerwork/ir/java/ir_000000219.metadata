@@ -1,5 +1,0 @@
-Main#main([Ljava/lang/String;)V
-false
-2fd39bb9d53c9abd4a4f519a92382333
-==
-println java.io.PrintStream#println(Ljava/lang/String;)V

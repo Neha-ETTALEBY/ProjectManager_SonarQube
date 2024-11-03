@@ -1,7 +1,0 @@
-organization=neha-ettaleby
-projectKey=Neha-ETTALEBY_ACE-JAXRS
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.57306
-dashboardUrl=https://sonarcloud.io/dashboard?id=Neha-ETTALEBY_ACE-JAXRS
-ceTaskId=AZLxAgRshVXjkFWAmb0v
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZLxAgRshVXjkFWAmb0v
