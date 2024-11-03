@@ -4,10 +4,15 @@ package org.sid;
  * Hello world!
  *
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+import java.util.logging.Logger;
+
+class App {
+
+    Logger logger = Logger.getLogger(getClass().getName());
+
+    public void doSomething() {
+        // ...
+        logger.info("My Message");  // Compliant, output via logger
+        // ...
     }
 }
